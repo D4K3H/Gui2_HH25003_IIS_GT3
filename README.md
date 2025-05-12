@@ -1,2 +1,2 @@
-# Gui2_HH25003_IIS_GT3
+# Guia2_HH25003_IIS_GT3
 Clonando mi primer repositorio
